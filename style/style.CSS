@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700&display=swap');
+
+*{font-family: 'Roboto', sans-serif;}
+
+.green-txt {color: #54D1BB;}
+
+.white-txt {color: #FFFFFF;}
+
+.blue-txt {color: #2F4076;}
+
+.yellow-txt {color: #F1c205;}
+
+.purple-txt {color: #3D1E69;}
+
+.grey-txt {color: #838282;}
+
+/* MENU */ 
+.logo {width: 90px;}
+.navbar-items a {color: #54D1BB;}
+
+/* */
+.banner {background: linear-gradient(180deg, #2F4076 0%, rgba(47, 64, 118, 0.84) 100%);}
+/* Contact */
+.contact {background: linear-gradient(180deg, #46BEB2 0%, #3A7C95 100%);}
